@@ -1,0 +1,8 @@
+{
+  "name": "私募股权尽调管理系统",
+  "description": "面向非上市公司私募股权投资的尽职调查数字化协作与流程管理模块，支持业务需求调研配置、任务执行跟踪、业务资料分类归档以及基于AI的尽调方案与风险分析。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
